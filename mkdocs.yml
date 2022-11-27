@@ -1,2 +1,4 @@
 site_name: My Docs
 theme: bootstrap4
+site_dir: docs
+docs_dir: md
