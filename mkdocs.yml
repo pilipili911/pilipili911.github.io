@@ -1,4 +1,4 @@
-site_name: Python中文文档
+site_name: Python教程
 theme: bootstrap4
 site_dir: docs
 docs_dir: md
