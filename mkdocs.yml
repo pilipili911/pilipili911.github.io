@@ -15,9 +15,7 @@ nav:
     - socketserver: 'socketserver.md'
     - websockets: 'websockets.md'
   - GUI:
-    - PySide详细教程: 'PySide入门教程.md'
-    - PySide2入门教程: 'PySide2入门教程.md'
-    - PySide6代码式教程: 'PySide6代码式教程.md'
+    - PySide6: 'PySide6.md'
   - Python:
     - Threading: 'Threading.md'
     - Asyncio: 'Asycio.md'
