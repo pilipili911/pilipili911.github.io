@@ -1,10 +1,9 @@
-site_name: My Docs
+site_name: Python中文文档
 theme: bootstrap4
 site_dir: docs
 docs_dir: md
 
 nav:
-  - Home: 'index.md'
   - Flask:
     - Watchlist: 'Watchlist.md'
     - Flask-WTForms: 'Flask-WTForms.md'
@@ -17,8 +16,12 @@ nav:
     - socket: 'socket.md'
     - socketserver: 'socketserver.md'
     - websockets: 'websockets.md'
+    - 网络编程学习资料: '网络编程学习资料.md'
   - GUI:
     - PySide入门: 'PySide入门.md'
     - PySide2教程: 'PySide2教程.md'
     - PySide6教程: 'PySide6教程.md'
     - Python-GUI学习资料: 'Python-GUI学习资料.md'
+  - Python:
+    - Threading: 'Threading.md'
+    - Asyncio: 'Asycio.md'
