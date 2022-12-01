@@ -13,3 +13,12 @@ nav:
     - Flask-RESTFul-API: 'Flask-RESTFul-API.md'
     - Flask-socketio: 'Flask-SocketIO.md'
     - Flask学习资料: 'Flask学习资料.md'
+  - 网络编程:
+    - socket: 'socket.md'
+    - socketserver: 'socketserver.md'
+    - websockets: 'websockets.md'
+  - GUI:
+    - PySide入门: 'PySide入门.md'
+    - PySide2教程: 'PySide2教程.md'
+    - PySide6教程: 'PySide6教程.md'
+    - Python-GUI学习资料: 'Python-GUI学习资料.md'
